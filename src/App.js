@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hey how are youvfdsfgrvdgrvdrgvfttfrgrfgvdgrdttgsaxdsdcszdcfsefrrgtdertgrd5t
+          Check the Build Output
         </a>
       </header>
     </div>
