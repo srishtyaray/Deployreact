@@ -10,7 +10,7 @@ const AboutPage = () => {
 
 
                 <main>
-                    <h2>About Us</h2>
+                    <h2>Aboutedswef Us</h2>
                     <p>This is the about page of the app.</p>
                 </main>
             </Header>
