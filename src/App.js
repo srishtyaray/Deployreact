@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          How to build a CI/CD pipeline with GitHub Actions
         </a>
       </header>
     </div>
